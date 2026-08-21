@@ -165,7 +165,7 @@
     margin-top: 55px;
 }
 
-.demo-btn {
+.my-btn {
     display: inline-block;
 
     background: #147cff;
@@ -182,7 +182,7 @@
     text-decoration: none;
 }
 
-.demo-btn:hover {
+.my-btn:hover {
     color: white;
     opacity: 0.9;
 }
@@ -289,9 +289,9 @@
 }
 
 
-/* DEMO TITLE */
+/* TITLE */
 
-.demo-link {
+.my-link {
     display: block;
     text-align: center;
     text-decoration: none;
@@ -299,7 +299,7 @@
     margin-bottom: 30px;
 }
 
-.demo-link h3 {
+.my-link h3 {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
@@ -307,7 +307,7 @@
     color: #eeeeee;
 }
 
-.demo-link p {
+.my-link p {
     margin: 7px 0 0;
     font-family: 'Montserrat', sans-serif;
     font-size: 10px;
@@ -318,8 +318,8 @@
 
 /* When either title or subtitle is hovered */
 
-.demo-link:hover h3,
-.demo-link:hover p {
+.my-link:hover h3,
+.my-link:hover p {
     color: #147cff;
 }
 
